@@ -42,5 +42,16 @@
     "fs-extra": "^4.0.3",
     "jsdoc": "^3.6.4",
     "mocha": "^3.5.3"
-  }
+  },
+  "files": [
+    "lib/src",
+    "lib/muhammara.js",
+    "lib/muhammara.d.ts",
+    "lib/binding.gyp",
+    "lib/PDFRStreamForFile.js",
+    "lib/PDFStreamForResponse.js",
+    "lib/PDFWStreamForFile.js",
+    "lib/PDFRStreamForBuffer.js",
+    "lib/PDFWStreamForBuffer.js"
+  ]
 }
